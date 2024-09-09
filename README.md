@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+| [3371-harshad-number](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3371-harshad-number) |
 ## Recursion
 |  |
 | ------- |
