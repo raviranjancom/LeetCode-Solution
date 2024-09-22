@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0078-subsets) |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
