@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -91,8 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
