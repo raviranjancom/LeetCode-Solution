@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0050-powx-n) |
 | [3371-harshad-number](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3371-harshad-number) |
 ## Recursion
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
