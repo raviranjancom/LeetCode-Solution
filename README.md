@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
