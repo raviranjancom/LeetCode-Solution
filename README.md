@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 ## Merge Sort
 |  |
 | ------- |
