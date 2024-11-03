@@ -2,7 +2,7 @@ class Solution {
 public:
     int myAtoi(string s) {
         int ans=0,sign=1,i=0;
-        bool flag=true,begin=false;
+        bool flag=true;
         while(i<s.length() && s[i]==' '){
             i++;
         }
@@ -14,7 +14,6 @@ public:
         while(i<s.length() && flag==true){
             int n=(int)s[i]-48;
             if(-1 < n && n < 10){
-                begin=true;
                 if((INT_MAX-n)/10 < ans){
                     if(sign==-1) return INT_MIN;
                     else return INT_MAX;
