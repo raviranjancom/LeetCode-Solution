@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
+| [3221-find-the-peaks](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
