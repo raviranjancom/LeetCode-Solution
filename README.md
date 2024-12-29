@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1063-best-sightseeing-pair](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
 | [3221-find-the-peaks](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
 ## Two Pointers
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
+| [1063-best-sightseeing-pair](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
 ## Merge Sort
 |  |
 | ------- |
