@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
