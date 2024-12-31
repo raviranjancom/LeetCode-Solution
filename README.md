@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1063-best-sightseeing-pair](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3221-find-the-peaks](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
