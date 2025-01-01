@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0058-length-of-last-word) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3447-clear-digits](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Union Find
 |  |
 | ------- |
