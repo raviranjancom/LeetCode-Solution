@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1063-best-sightseeing-pair](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3221-find-the-peaks](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
 ## Two Pointers
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3447-clear-digits](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Union Find
 |  |
 | ------- |
