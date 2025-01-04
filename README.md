@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0633-sum-of-square-numbers](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [3371-harshad-number](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3371-harshad-number) |
 ## Recursion
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
