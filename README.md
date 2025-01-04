@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3447-clear-digits](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Binary Search
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0260-single-number-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Union Find
