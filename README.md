@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0071-simplify-path) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0155-min-stack) |
 | [3447-clear-digits](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Design
