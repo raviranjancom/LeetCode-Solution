@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3226-minimum-number-game](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3447-clear-digits) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Backtracking
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3447-clear-digits](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3447-clear-digits) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Binary Search
 |  |
 | ------- |
