@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0445-add-two-numbers-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [3371-harshad-number](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3371-harshad-number) |
 ## Recursion
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0155-min-stack) |
+| [0445-add-two-numbers-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0445-add-two-numbers-ii) |
 | [3447-clear-digits](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Design
 |  |
