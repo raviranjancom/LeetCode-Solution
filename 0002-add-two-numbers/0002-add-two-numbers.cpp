@@ -11,34 +11,56 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        ListNode *head=NULL,*last=head;
+        int carry=0;
         ListNode *p=l1,*q=l2;
-        int c=0;
-        vector<int> v;
-        while(l1!=NULL || l2!=NULL){    // int digit2 = (l2 != NULL) ? l2->val : 0;
-            int d1 = (l1 != NULL) ? l1->val : 0;
-            int d2=(l2!= NULL) ? l2->val : 0;
-            int result = d1 + d2 + c;
-            c = result / 10;
-            v.push_back(result % 10);
-            l1 ? l1=l1->next : NULL;
-            l2 ? l2=l2->next : NULL;
+        while(p && q){
+            int v=p->val + q->val;
+            int x=(v+carry)%10;
+            carry=(v+carry)/10;
+            ListNode* temp=new ListNode;
+            temp->val=x;
+            temp->next=NULL;
+            if(head==NULL){
+                head=temp;
+                last=head;
+            }
+            else{
+                last->next=temp;
+                last=temp;
+            }
+            p=p->next;
+            q=q->next;
         }
-        if(c!=0) v.push_back(c);
-
-        ListNode *ans,*last;
-        ans=new ListNode;
-        ans->val=v[0];
-        ans->next=NULL;
-        last=ans;
-        int i=1;
-        while(i<v.size()){
-            ListNode * temp;
-            temp=new ListNode;
-            temp->val=v[i];
+        while(p){
+            int v=p->val;
+            int x=(v+carry)%10;
+            carry=(v+carry)/10;
+            ListNode * temp=new ListNode;
+            temp->val=x;
+            temp->next=NULL;
             last->next=temp;
             last=temp;
-            i++;
+            p=p->next;
         }
-        return ans;
+        while(q){
+            int v=q->val;
+            int x=(v+carry)%10;
+            carry=(v+carry)/10;
+            ListNode * temp=new ListNode;
+            temp->val=x;
+            temp->next=NULL;
+            last->next=temp;
+            last=temp;
+            q=q->next;
+        }
+        if(carry>0){
+            ListNode * temp=new ListNode;
+            temp->val=carry;
+            temp->next=NULL;
+            last->next=temp;
+            last=temp;
+        }
+        return head;
     }
 };
