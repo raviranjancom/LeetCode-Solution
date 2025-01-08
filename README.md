@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
 |  |
