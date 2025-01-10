@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0952-word-subsets](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0071-simplify-path) |
+| [0952-word-subsets](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
