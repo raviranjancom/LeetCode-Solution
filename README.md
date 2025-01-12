@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0445-add-two-numbers-ii) |
 | [3447-clear-digits](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Design
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0838-design-linked-list) |
 ## Trie
 |  |
@@ -288,4 +290,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
