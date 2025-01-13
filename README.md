@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raviranjancom/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/raviranjancom/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3447-clear-digits) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3540-hash-divided-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Binary Search
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/raviranjancom/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/raviranjancom/LeetCode-Solution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Enumeration
 |  |
 | ------- |
